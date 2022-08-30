@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is Vishal, I am a Remote Engineer works as Freelance or Contractor
 
-- 🔭 I’m currently working on Ruby | Rails | Graphql | Sidekiq | AWS | Docker | Ansible
+- 🔭 I’m currently working on Ruby | Rails | Sidekiq | AWS | Docker | Ansible | Snowflake
 - 🌱 Started in Go and learning Elixir.
 - 📫 How to reach me: [v.zambre@gmail.com](mailto:v.zambre@gmail.com), [vishalzambre.com](vishalzambre.com) or on [twitter](https://twitter.com/vzambre)
 
