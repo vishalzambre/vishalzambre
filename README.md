@@ -19,7 +19,7 @@ This is Vishal, I am a Remote Engineer works as Freelance or Contractor
 
 - 🔭 I’m currently working on Ruby | Rails | Sidekiq | AWS | Docker | Ansible | Snowflake
 - 🌱 Started in Go and learning Elixir.
-- 📫 How to reach me: [v.zambre@gmail.com](mailto:v.zambre@gmail.com), [vishalzambre.com](vishalzambre.com) or on [twitter](https://twitter.com/vzambre)
+- 📫 How to reach me: [v.zambre@gmail.com](mailto:v.zambre@gmail.com), [vishalzambre.com](https://www.vishalzambre.com) or on [twitter](https://twitter.com/vzambre)
 
 ### Connect with me:
 
@@ -29,6 +29,6 @@ This is Vishal, I am a Remote Engineer works as Freelance or Contractor
 
 <br />
 
-[website]: https://vishalzambre.com/
+[website]: https://www.vishalzambre.com
 [twitter]: https://twitter.com/vzambre
-[linkedin]: https://www.linkedin.com/in/vishal.zambre
+[linkedin]: https://www.linkedin.com/in/vishalzambre
